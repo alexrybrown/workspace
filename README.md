@@ -19,6 +19,7 @@ git clone https://github.com/fatih/vim-go.git ~/.vim/pack/plugins/start/vim-go
 git clone https://github.com/ctrlpvim/ctrlp.vim ~/.vim/pack/plugins/start/ctrlp.vim
 git clone https://github.com/AndrewRadev/splitjoin.vim ~/.vim/pack/plugins/start/splitjoin
 git clone https://github.com/SirVer/ultisnips ~/.vim/pack/plugins/start/ultisnips
+git clone https://github.com/pineapplegiant/spaceduck ~/.vim/pack/plugins/start/spaceduck
 ```
 
 ## Install dist
